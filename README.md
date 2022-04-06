@@ -1,4 +1,4 @@
-# KimmyTheKitty [DISCONTINUED]
+# Kimmy the Kitty [DISCONTINUED]
 
 Unreleased android mobile game developed in 2016 with Unity
 
